@@ -1,0 +1,19 @@
+.banner {
+	margin-top: 10px;
+}
+
+.social {
+	text-align: center;
+	margin-top: -4%;
+}
+
+#twitter {
+	margin-right: 10%;
+}
+
+.purple {
+	height: 350px;
+	width: 900px;
+	background-color: purple;
+	margin-top: 10px;
+}
