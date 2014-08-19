@@ -25,18 +25,13 @@
 	margin-top: 50px;
 }
 
-.purple {
-	height: 350px;
-	width: 60%;
-	background-color: purple;
-	margin-top: 10px;
+.main {
+	margin-top: 25px;
 }
 
 .info {
 	height: 350px;
-	width: 39%;
-	background-color: yellow;
-	margin-top: 10px;
+	background-color: purple;
 }
 
 .buy-now {
