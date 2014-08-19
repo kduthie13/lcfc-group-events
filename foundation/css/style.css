@@ -11,9 +11,49 @@
 	margin-right: 10%;
 }
 
+.top-bar {
+	color: white;
+	background-color: purple;
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	z-index: 10;
+	font-weight: bold;
+}
+
+.banner {
+	margin-top: 50px;
+}
+
 .purple {
 	height: 350px;
-	width: 900px;
+	width: 60%;
 	background-color: purple;
 	margin-top: 10px;
+}
+
+.info {
+	height: 350px;
+	width: 39%;
+	background-color: yellow;
+	margin-top: 10px;
+}
+
+.buy-now {
+	height: 350px;
+	background-color: purple;
+	margin-top: 20px;
+}
+
+.footer {
+	margin-top: 30px;
+}
+
+.sponsors {
+	text-align: center;
+	vertical-align: center;
+}
+
+.sponsors img {
+	margin-top: -125px;
 }
