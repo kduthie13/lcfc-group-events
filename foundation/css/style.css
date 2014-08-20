@@ -19,6 +19,8 @@
 	width: 100%;
 	z-index: 10;
 	font-weight: bold;
+	text-transform: uppercase;
+	font-family: Garamond;
 }
 
 .banner {
@@ -26,22 +28,37 @@
 }
 
 .main {
-	margin-top: 25px;
+	margin-top: 45px;
 }
 
 .info {
 	height: 350px;
-	background-color: purple;
+	background: linear-gradient(to bottom right, purple, white);
+	text-align: center;
+	padding: 15px;
 }
 
-.buy-now {
-	height: 350px;
-	background-color: purple;
-	margin-top: 20px;
+.info h2, h4, p {
+	font-family: Garamond;
+	color: white;
 }
+
+.info h2 {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.info p {
+	font-style: italic;
+}
+
+.info img {
+	margin-top: 25px;
+}
+
 
 .footer {
-	margin-top: 30px;
+	margin-top: 50px;
 }
 
 .sponsors {
